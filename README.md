@@ -3,6 +3,7 @@
 Full-stack lending platform with a borrower application flow and an internal operations dashboard. Built as a monorepo with a Next.js 14 client and an Express + MongoDB server.
 
 YouTube Link - https://youtu.be/DDG89lun7W8
+
 Deployed Link - https://loan-management-system-client-yup7.vercel.app
 
 ## Overview
